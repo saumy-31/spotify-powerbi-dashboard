@@ -11,6 +11,6 @@ Interactive dashboard analyzing Spotify streaming data.
 1. Download `spotify_dashboard.pbix`.
 2. Open in [Power BI Desktop](https://powerbi.microsoft.com/desktop/).
 
-assets/spotifuyy.jpg
+
 
 
